@@ -49,15 +49,15 @@
       {
         "width": 4032,
         "height": 3024,
-        "photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1600&photo_reference=Ab43m-urnOL07OcF2O6F2pcX6zZ_OzcdNspNldD4NenB3SPdX2L9UiITI8jQLYdNdUO1LRP3Ubv7OKFvyFUOZ-y3yc9TFcUrBMnyIf4oYiMeW2KfoPQAoTDJ0eDNcEH7QpAKX-houGZx-IbsviwjNm74jxukkA7LvTH5rMbuv-LMcp9GncHgNs0i_zMeeCKIXMl9Z4LV2n2pZ5KAImp8K7pQXzT8djko-AOtjsCsE8ISrIUjvMYDAEpORVB7ZaopXy0a_Z2y-oy9AWkgOqhuD9Boqjy8Ism4YMzyIe0kb2Y6VqaMLtqMrbsXp9atFu3mqYh933aCvbPfyE7b5ugZVl3EfZry_OA20kyzWfAF5i2030mSLXwyrrFFA3cGiq-QRKyFemLL__gqxOzjvBwfTmlb-TMVp8kbK8kKMoTvfqEtSvqvHug&key=AIzaSyCAx-vT1jrVkMby9szUsAPORWFlhEmExZE"
+        "photo_url": ""
       },
       {
         "width": 4032,
         "height": 3024,
-        "photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1600&photo_reference=Ab43m-sI3BA5ap2IgfRlKOFOS-VuvPJlyrMvjJolYHevFDyYPyxVMTP9QbWbjGNdzkr6BZxF8IysGnVYcyWwVPbHZ3-qD6z3Z-OxzCffBn36fuxpvKAX_JUrawqnKsuOMfa--jDwE0F-JbEbc88P4S5GNqtYNOL8FngEEEiIktif0zUs8VWOpORYJkN8xzoMcA6oouyOl-llQb8JBNIQNkCtrnvD0tcTBjLw-EKRU96QO5gmEZpOmZYzt5BniVHzWssrFpqNV-uqYtdf0Kj3abN-gmYcuwh_ny6SE9i3TRoE44-RvPmC-McH43Qg2ibm0n0DqkpHjOAyUtL9dEPTyv4DwYWv1bAkYRvgdZdforEuPaGk50bz_q7SVjMEN4hgjJTunR1wqAEDTIJ_ozQyBEBaya3dCmDs2-fxjqXTsOP34TGXolOF&key=AIzaSyCAx-vT1jrVkMby9szUsAPORWFlhEmExZE"
+        "photo_url": "https://test-cloudvault.s3.ap-south-1.amazonaws.com/swara1.jpg"
       }
     ],
-    "main_photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1600&photo_reference=Ab43m-urnOL07OcF2O6F2pcX6zZ_OzcdNspNldD4NenB3SPdX2L9UiITI8jQLYdNdUO1LRP3Ubv7OKFvyFUOZ-y3yc9TFcUrBMnyIf4oYiMeW2KfoPQAoTDJ0eDNcEH7QpAKX-houGZx-IbsviwjNm74jxukkA7LvTH5rMbuv-LMcp9GncHgNs0i_zMeeCKIXMl9Z4LV2n2pZ5KAImp8K7pQXzT8djko-AOtjsCsE8ISrIUjvMYDAEpORVB7ZaopXy0a_Z2y-oy9AWkgOqhuD9Boqjy8Ism4YMzyIe0kb2Y6VqaMLtqMrbsXp9atFu3mqYh933aCvbPfyE7b5ugZVl3EfZry_OA20kyzWfAF5i2030mSLXwyrrFFA3cGiq-QRKyFemLL__gqxOzjvBwfTmlb-TMVp8kbK8kKMoTvfqEtSvqvHug&key=AIzaSyCAx-vT1jrVkMby9szUsAPORWFlhEmExZE"
+    "main_photo_url": "https://test-cloudvault.s3.ap-south-1.amazonaws.com/swara.jpg"
   },
   "website_config": {
     "theme": "luxury-fashion",
